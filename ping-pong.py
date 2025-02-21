@@ -98,9 +98,9 @@ timer = 0
 # Delta Time
 previous_time = time.time()
 dt = 0
-
-fps = 165
-target_fps = 165
+# fps and targeted fps (This **will** have a significant impact on the gameplay
+fps = 144
+target_fps = 144
 
 run = True
 
