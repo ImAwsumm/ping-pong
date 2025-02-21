@@ -99,8 +99,8 @@ timer = 0
 previous_time = time.time()
 dt = 0
 
-fps = 120
-target_fps = 120
+fps = 165
+target_fps = 165
 
 run = True
 
