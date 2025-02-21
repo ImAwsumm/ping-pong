@@ -13,9 +13,9 @@ player_1_score = 0
 player_2_score = 0
 
 # Creating the screen
-SCREEN_WIDTH = 1400
-SCREEN_HEIGHT = 750
-screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+SCREEN_WIDTH = 1920
+SCREEN_HEIGHT = 1080
+screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT), pygame.RESIZABLE)
 
 # Title of the window
 pygame.display.set_caption("Ping-Pong Game: First to 7 wins!")
