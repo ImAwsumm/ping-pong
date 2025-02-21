@@ -1,6 +1,6 @@
 
 <h1 align="center">Ping Pong game</h1>
-<h2 align="center">A small and simple game made by a friend of mine named [iambetter27](https://github.com/iambetter27))</h2>
+<h2 align="center">A small and simple game made by a friend of mine named [iambetter27](https://github.com/iambetter27)</h2>
 
 
 This simple game was built using the Pygame library.
