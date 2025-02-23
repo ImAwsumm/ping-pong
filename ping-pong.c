@@ -8,6 +8,9 @@ static void activate(GtkApplication *app, gpointer user_data) {
     window = gtk_application_window_new(app);
     gtk_window_set_title(GTK_WINDOW(window), "Ping Pong");
     gtk_window_set_default_size(GTK_WINDOW(window), 1920, 1080);
+
+    
+    // Create a label with the text "Ping Pong" (this label will be added to the window later)
     label = gtk_label_new("Ping Pong");
 
     // Add the text label to the window
